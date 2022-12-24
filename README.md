@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        Hacking everything and everyone
+        Hack everything and everyone
         <br>
         Hack the world
     </h1>
